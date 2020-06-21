@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Feed Subscriptions</title>
+</head>
+<body>
+      <outline text=" llussy" title=" llussy" type="rss" 
+            xmlUrl="https://github.com/llussy.private.atom?token=AEMUHRW3K6SUOI37G2IMY3F46356E" htmlUrl="https://github.com/llussy"/>
+      <outline text="爱范儿" title="爱范儿" type="rss" 
+            xmlUrl="http://www.ifanr.com/feed" htmlUrl="https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+      <outline text="今日推荐指南" title="今日推荐指南" type="rss" 
+            xmlUrl="http://zh.wikihow.com/feed.rss" htmlUrl="https://zh.wikihow.com/Main-Page"/>
+      <outline text="理想生活实验室" title="理想生活实验室" type="rss" 
+            xmlUrl="http://www.toodaylab.com/feed" htmlUrl="http://www.toodaylab.com"/>
+      <outline text="知乎每日精选" title="知乎每日精选" type="rss" 
+            xmlUrl="http://www.zhihu.com/rss" htmlUrl="http://www.zhihu.com"/>
+      <outline text="Solidot" title="Solidot" type="rss" 
+            xmlUrl="https://feeds2.feedburner.com/solidot" htmlUrl="https://www.solidot.org"/>
+  <outline title="软件" text="软件">
+      <outline text="坚果极客" title="坚果极客" type="rss" 
+            xmlUrl="https://www.nutgeek.com/feed/" htmlUrl="https://www.nutgeek.com"/>
+      <outline text="小众软件" title="小众软件" type="rss" 
+            xmlUrl="http://feed.appinn.com/" htmlUrl="https://www.appinn.com"/>
+      <outline text="有趣网址之家 – 收藏全球最有趣的网站" title="有趣网址之家 – 收藏全球最有趣的网站" type="rss" 
+            xmlUrl="http://youquhome.com/?feed=rss2" htmlUrl="https://youquhome.com"/>
+      <outline text="Rat&#39;s Blog" title="Rat&#39;s Blog" type="rss" 
+            xmlUrl="https://www.moerats.com/feed/" htmlUrl="https://www.moerats.com/"/>
+  </outline>
+  <outline title="golang" text="golang">
+      <outline text="面向信仰编程" title="面向信仰编程" type="rss" 
+            xmlUrl="https://draveness.me/feed.xml" htmlUrl="https://draveness.me/"/>
+  </outline>
+  <outline title="Kubernetes" text="Kubernetes">
+      <outline text=" Cloud Native Community" title=" Cloud Native Community" type="rss" 
+            xmlUrl="https://cloudnative.to/blog/index.xml" htmlUrl="https://cloudnative.to/blog/"/>
+      <outline text="Cizixs Write Here" title="Cizixs Write Here" type="rss" 
+            xmlUrl="http://cizixs.com/feed.xml"/>
+      <outline text="DockOne.io" title="DockOne.io" type="rss" 
+            xmlUrl="https://rsshub.app/dockone/weekly"/>
+      <outline text="Indagate" title="Indagate" type="rss" 
+            xmlUrl="https://ustack.io/atom.xml"/>
+      <outline text="k8s技术圈" title="k8s技术圈" type="rss" 
+            xmlUrl="https://cdn.werss.weapp.design/api/v1/feeds/11e79e0a-621c-4c4a-8326-918520912a23.xml"/>
+      <outline text="k8s生态周报" title="MoeLove" type="rss" 
+            xmlUrl="https://moelove.info/index.xml" htmlUrl="https://moelove.info/"/>
+      <outline text="koala bear" title="koala bear" type="rss" 
+            xmlUrl="http://wsfdl.com/feed.xml" htmlUrl="http://wsfdl.com/"/>
+      <outline text="SealYun" title="SealYun" type="rss" 
+            xmlUrl="https://sealyun.com/index.xml" htmlUrl="https://sealyun.com/"/>
+      <outline text="The Giant Swarm Blog" title="The Giant Swarm Blog" type="rss" 
+            xmlUrl="https://blog.giantswarm.io/feed"/>
+      <outline text="Tony Bai" title="Tony Bai" type="rss" 
+            xmlUrl="http://tonybai.com/feed/" htmlUrl="https://tonybai.com"/>
+      <outline text="Vermouth" title="Vermouth" type="rss" 
+            xmlUrl="http://www.xuyasong.com/?feed=rss2" htmlUrl="http://www.xuyasong.com"/>
+      <outline text="WaltonWang的博客" title="WaltonWang的博客" type="rss" 
+            xmlUrl="https://rss.fuckcloudnative.io/oschina/user/jxcdwangtao" htmlUrl="https://my.oschina.net/jxcdwangtao"/>
+      <outline text="Zhangguanzhang" title="Zhangguanzhang" type="rss" 
+            xmlUrl="https://zhangguanzhang.github.io/atom.xml"/>
+      <outline text="Zlatan Eevee" title="Zlatan Eevee" type="rss" 
+            xmlUrl="https://ieevee.com/feed.xml" htmlUrl="https://ieevee.com/"/>
+      <outline text="云原生实验室" title="云原生实验室" type="rss" 
+            xmlUrl="https://fuckcloudnative.io/index.xml" htmlUrl="https://fuckcloudnative.io/"/>
+      <outline text="伪架构师" title="伪架构师" type="rss" 
+            xmlUrl="https://blog.fleeto.us/index.xml" htmlUrl="/"/>
+      <outline text="其逸空间" title="其逸空间" type="rss" 
+            xmlUrl="https://www.ikiwi.me/feed/" htmlUrl="https://www.ikiwi.me/"/>
+      <outline text="吴良超的学习笔记" title="吴良超的学习笔记" type="rss" 
+            xmlUrl="http://wulc.me/atom.xml"/>
+      <outline text="暗枫" title="暗枫" type="rss" 
+            xmlUrl="https://llussy.github.io/feed.xml" htmlUrl="https://llussy.me/"/>
+      <outline text="田飞雨 - 简书" title="田飞雨 - 简书" type="rss" 
+            xmlUrl="https://rss.fuckcloudnative.io/jianshu/user/a004b422adae" htmlUrl="https://www.jianshu.com/u/a004b422adae"/>
+      <outline text="鱼儿的博客" title="鱼儿的博客" type="rss" 
+            xmlUrl="https://yuerblog.cc/feed/" htmlUrl="https://yuerblog.cc"/>
+      <outline text="漠然" title="漠然" type="rss" 
+            xmlUrl="https://mritd.me/feed.xml" htmlUrl="https://mritd.me/"/>
+      <outline text="Kubernetes技术栈" title="Kubernetes技术栈" type="rss" 
+            xmlUrl="https://www.k8stech.net/index.xml" htmlUrl="https://www.k8stech.net/"/>
+  </outline>
+  <outline title="Linux" text="Linux">
+      <outline text="CoolShell" title="CoolShell" type="rss" 
+            xmlUrl="http://coolshell.cn/feed" htmlUrl="https://coolshell.cn"/>
+      <outline text="Phoenix&#39;s island" title="Phoenix&#39;s island" type="rss" 
+            xmlUrl="http://blog.phoenixlzx.com/atom.xml"/>
+      <outline text="Senraの小窝" title="Senraの小窝" type="rss" 
+            xmlUrl="http://www.senra.me/feed/" htmlUrl="http://www.senra.me"/>
+      <outline text="Sukka&#39;s Blog" title="Sukka&#39;s Blog" type="rss" 
+            xmlUrl="https://blog.skk.moe/atom.xml"/>
+      <outline text="yoko" title="yoko" type="rss" 
+            xmlUrl="https://pengrl.com/atom.xml"/>
+      <outline text="zasdfgbnm" title="zasdfgbnm" type="rss" 
+            xmlUrl="https://zasdfgbnm.github.io/atom.xml"/>
+      <outline text="宇宙湾" title="宇宙湾" type="rss" 
+            xmlUrl="https://yuzhouwan.com/atom.xml"/>
+      <outline text="挖站否" title="挖站否" type="rss" 
+            xmlUrl="https://wzfou.com/feed/" htmlUrl="https://wzfou.com"/>
+  </outline>
+  <outline title="blog" text="blog">
+      <outline text="Alen Komljen" title="Alen Komljen" type="rss" 
+            xmlUrl="https://akomljen.com/rss/" htmlUrl="https://akomljen.com/"/>
+      <outline text="Alex Ellis&#39; Blog" title="Alex Ellis&#39; Blog" type="rss" 
+            xmlUrl="https://blog.alexellis.io/rss/" htmlUrl="https://blog.alexellis.io/"/>
+      <outline text="Amazon Elastic Container Service for Kubernetes – AWS Open Source Blog" title="Amazon Elastic Container Service for Kubernetes – AWS Open Source Blog" type="rss" 
+            xmlUrl="https://aws.amazon.com/cn/blogs/opensource/category/compute/amazon-elastic-container-service-for-kubernetes/feed/" htmlUrl="https://aws.amazon.com/blogs/opensource/"/>
+      <outline text="Arch Linux: Recent news updates" title="Arch Linux: Recent news updates" type="rss" 
+            xmlUrl="http://www.archlinux.org/feeds/news/" htmlUrl="https://www.archlinux.org/news/"/>
+      <outline text="Blog - Container Solutions" title="Blog - Container Solutions" type="rss" 
+            xmlUrl="https://blog.container-solutions.com/rss.xml" htmlUrl="https://blog.container-solutions.com"/>
+      <outline text="Blog on Rancher Labs" title="Blog on Rancher Labs" type="rss" 
+            xmlUrl="https://rancher.com/blog/index.xml" htmlUrl="https://rancher.com/blog/"/>
+      <outline text="DevopsCube" title="DevopsCube" type="rss" 
+            xmlUrl="https://devopscube.com/feed/" htmlUrl="https://devopscube.com"/>
+      <outline text="Docker" title="Docker" type="rss" 
+            xmlUrl="https://sysdig.com/blog/category/docker2/feed/" htmlUrl="https://sysdig.com"/>
+      <outline text="Eli Bendersky&#39;s website" title="Eli Bendersky&#39;s website" type="rss" 
+            xmlUrl="https://eli.thegreenplace.net/feeds/all.atom.xml" htmlUrl="https://eli.thegreenplace.net/"/>
+      <outline text="exoscale syslog" title="exoscale syslog" type="rss" 
+            xmlUrl="https://www.exoscale.com/syslog/feed.atom"/>
+      <outline text="Go (Golang) Programming Blog - Ardan Labs on" title="Go (Golang) Programming Blog - Ardan Labs on" type="rss" 
+            xmlUrl="https://www.ardanlabs.com/blog/index.xml" htmlUrl="https://www.ardanlabs.com/blog/"/>
+      <outline text="Heptio - Medium" title="Heptio - Medium" type="rss" 
+            xmlUrl="https://blog.heptio.com/feed" htmlUrl="https://blog.heptio.com?source=rss----7d24bed16a19---4"/>
+      <outline text="I Love Free Software" title="I Love Free Software" type="rss" 
+            xmlUrl="http://feeds.feedburner.com/ilovefreesoftware/OEwA" htmlUrl="https://www.ilovefreesoftware.com"/>
+      <outline text="Jetstack Blog" title="Jetstack Blog" type="rss" 
+            xmlUrl="https://blog.jetstack.io/index.xml" htmlUrl="https://blog.jetstack.io/"/>
+      <outline text="Kintone Engineering Blog" title="Kintone Engineering Blog" type="rss" 
+            xmlUrl="https://blog.kintone.io/rss" htmlUrl="https://blog.kintone.io/"/>
+      <outline text="Kubernetes" title="Kubernetes" type="rss" 
+            xmlUrl="https://sysdig.com/blog/category/kubernetes2/feed/" htmlUrl="https://sysdig.com"/>
+      <outline text="Kubernetes" title="Kubernetes" type="rss" 
+            xmlUrl="https://kubernetes.io/feed.xml" htmlUrl="https://kubernetes.io/"/>
+      <outline text="Kubernetes on Medium" title="Kubernetes on Medium" type="rss" 
+            xmlUrl="https://medium.com/feed/tag/kubernetes" htmlUrl="https://medium.com/tag/kubernetes/latest?source=rss------kubernetes-5"/>
+      <outline text="Kubernetes Tutorials – Codefresh" title="Kubernetes Tutorials – Codefresh" type="rss" 
+            xmlUrl="https://codefresh.io/kubernetes-tutorial/feed/" htmlUrl="https://codefresh.io"/>
+      <outline text="Kubernetes – The New Stack" title="Kubernetes – The New Stack" type="rss" 
+            xmlUrl="https://thenewstack.io/category/kubernetes/feed/" htmlUrl="https://thenewstack.io"/>
+      <outline text="LinuxCzar" title="LinuxCzar" type="rss" 
+            xmlUrl="http://linuxczar.net/index.xml" htmlUrl="http://linuxczar.net/"/>
+      <outline text="Mark Galea" title="Mark Galea" type="rss" 
+            xmlUrl="https://cloudmark.github.io/feed.xml" htmlUrl="http://cloudmark.github.io/"/>
+      <outline text="OMG! Ubuntu!" title="OMG! Ubuntu!" type="rss" 
+            xmlUrl="http://feeds.feedburner.com/d0od" htmlUrl="https://www.omgubuntu.co.uk"/>
+      <outline text="Openshift – Cloud Devops Unix Linux Container Tutorial" title="Openshift – Cloud Devops Unix Linux Container Tutorial" type="rss" 
+            xmlUrl="https://sysaix.com/category/devops/openshift/feed" htmlUrl="https://sysaix.com"/>
+      <outline text="Opensource.com" title="Opensource.com" type="rss" 
+            xmlUrl="http://opensource.com/feed" htmlUrl="https://opensource.com/frontpage"/>
+      <outline text="people.kernel.org Reader" title="people.kernel.org Reader" type="rss" 
+            xmlUrl="https://people.kernel.org/read/feed/" htmlUrl="https://people.kernel.org"/>
+      <outline text="Project Calico" title="Project Calico" type="rss" 
+            xmlUrl="http://www.projectcalico.org/feed/" htmlUrl="https://www.projectcalico.org"/>
+      <outline text="Prometheus" title="Prometheus" type="rss" 
+            xmlUrl="https://sysdig.com/blog/category/prometheus/feed/" htmlUrl="https://sysdig.com"/>
+      <outline text="Prometheus Blog" title="Prometheus Blog" type="rss" 
+            xmlUrl="http://prometheus.io/blog/feed.xml" htmlUrl="https://prometheus.io/"/>
+      <outline text="Robust Perception | Prometheus Monitoring Experts" title="Robust Perception | Prometheus Monitoring Experts" type="rss" 
+            xmlUrl="http://www.robustperception.io/feed/" htmlUrl="https://www.robustperception.io"/>
+      <outline text="Sysdig" title="Sysdig" type="rss" 
+            xmlUrl="https://sysdig.com/feed/" htmlUrl="https://sysdig.com"/>
+      <outline text="the monitor on Modern monitoring &#38; security" title="the monitor on Modern monitoring &#38; security" type="rss" 
+            xmlUrl="http://feeds.feedburner.com/Datadog" htmlUrl="https://www.datadoghq.com/blog/"/>
+      <outline text="Ubuntu Geek" title="Ubuntu Geek" type="rss" 
+            xmlUrl="http://www.ubuntugeek.com/feed/" htmlUrl="http://www.ubuntugeek.com"/>
+      <outline text="Vincent Bernat" title="Vincent Bernat" type="rss" 
+            xmlUrl="https://vincent.bernat.ch/en/blog/atom.xml" htmlUrl="https://vincent.bernat.ch/en"/>
+      <outline text="Writing - rachelbythebay" title="Writing - rachelbythebay" type="rss" 
+            xmlUrl="https://rachelbythebay.com/w/atom.xml"/>
+  </outline>
+</body>
+</opml>
