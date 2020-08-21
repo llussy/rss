@@ -1,7 +1,7 @@
 # rss
 
 
-sysdig
+### sysdig
 
 https://sysdig.com/blog/category/kubernetes2/feed/
 
@@ -16,7 +16,7 @@ https://sysdig.com/blog/category/sysdig-monitor/feed/
 
 
 
-k8s/golang相关
+### k8s/golang相关
 
 Indagate  https://ustack.io/atom.xml
 
@@ -30,10 +30,13 @@ K8S 生态周报  https://moelove.info/index.xml
 
 mritd  https://mritd.me/feed.xml
 
+zhangguanzhang https://zhangguanzhang.github.io/atom.xml
 
-https://llussy.github.io/feed.xml
+Alex Edwards https://www.alexedwards.net/static/feed.rss
 
-https://zhangguanzhang.github.io/atom.xml
+
+
+### others
 
 https://www.k8stech.net/index.xml
 
